@@ -1,5 +1,6 @@
-#Parole che crescono
-##Carmen Beraldi e Anna Madonna
+# Parole che crescono
+
+## Carmen Beraldi e Anna Madonna
 Parole che crescono è un progetto educativo che nasce dall'incontro tra lettura dialogica e Comunicazione Aumentativa e Alternativa (CAA)
 all'interno del nido di infanzia.
 Il progetto si fonda sull'idea che il linguaggio non si sviluppi solo attraverso le parole,
@@ -12,7 +13,7 @@ Il progetto si rivolge al contesto educativo del nido e coinvolge educatrici e f
 con l'obiettivo di favorire uno sviluppo comunicativo inclusivo e precoce, centrato sulla qualità dell'ambiente e delle relazioni
 
 
-##Il laboratorio
+## Il laboratorio
 
 
 Le attività di lettura dialogica in CAA sono state proposte con regolarità, utilizzando libri simbolizzati e strategie di modeling da parte degli adulti,
@@ -21,7 +22,7 @@ L'attenzione non è stata posta sulla prestazione linguistica , ma sull aprtecip
 valorizzando gesti, sguardi, vocalizzazioni e prime parole come forme significative di comunicazione.
 Il coinvolgimento delle educatrici e delle famiglie ha contribuito alla costruzione di un ambiente comunicativo più accessibile e coerente.
 
-###I risultati
+### I risultati
 
 Nel corso del laboratorio si è osservato un progressivo aumento dell'attenzione condivisa, della durata degli scambi e delle iniziative spontanee,
 espresse attraverso sguardi, vocalizzazioni e, laddove presenti, parole.
