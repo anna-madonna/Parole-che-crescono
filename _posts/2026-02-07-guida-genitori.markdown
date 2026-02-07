@@ -9,6 +9,7 @@ client: Anna Madonna e Carmen Beraldi
 category: Libro
 ---
 ## Guida genitori
+
 la guida genitori è un opuscolo informativo pensato per accompagnare i genitori nella scoperta della lettura condivisa come strumento fondamentale per lo sviluppo del linguaggio.
 Con un linguaggio semplice e immagini chiare, la guida offre indicazioni pratiche e facilmente applicabili nella quotidianità.
 
