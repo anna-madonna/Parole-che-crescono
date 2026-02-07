@@ -21,5 +21,4 @@ Il progetto nasce con l’obiettivo di sostenere i genitori, offrendo strumenti 
 
 ### Download
 
-<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
-<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
+<a href="{{ '/assets/pdf/guida_per_i_genitori.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>

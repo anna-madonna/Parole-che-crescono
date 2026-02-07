@@ -19,5 +19,5 @@ Fuffy è un piccolo pipistrello curioso che, nella notte di Halloween, esplora l
 
 ### Download
 
-<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
-<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
+<a href="{{ '/assets/pdf/fuffy.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/foto/foto_fuffy.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
