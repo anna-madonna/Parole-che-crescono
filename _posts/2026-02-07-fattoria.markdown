@@ -7,5 +7,22 @@ alt: image-alt
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
-description: DESCRIZIONE FATTORIA
 ---
+## Il progetto Fattoria
+
+Fattoria è un libro accessibile pensato per accompagnare i bambini nella lettura attraverso una struttura semplice, ripetitiva e altamente prevedibile.  
+Frasi brevi, immagini chiare e parole chiave evidenziate favoriscono la comprensione, l’attenzione condivisa e la partecipazione attiva.
+
+La storia è ambientata nella fattoria, dove al mattino tutti gli animali hanno fame. Uno alla volta, mucca, cavallo, pecora, gallina e maialino mangiano il loro cibo preferito, accompagnati da suoni onomatopeici e commenti positivi. La narrazione si conclude con un momento di condivisione: tutti mangiano felici insieme, trasformando il pasto in un’esperienza piacevole e sociale.
+
+Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e interazione, utilizzando routine quotidiane e sequenze prevedibili. Fattoria non è solo un libro da leggere, ma uno strumento per lavorare su turn-taking, imitazione, lessico e piacere dello stare insieme, adatto a contesti educativi, terapeutici e familiari.
+
+---
+
+### Download
+
+
+<div class="text-center">
+  <a href="/assets/pdf/fattoria.pdf" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+  <a href="/assets/foto/foto_fattoria.pdf" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
+</div>
