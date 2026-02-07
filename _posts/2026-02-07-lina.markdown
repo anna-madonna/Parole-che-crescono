@@ -7,5 +7,19 @@ alt: image-alt
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
-description: DESCRIZIONE 
 ---
+## Lina la coniglietta
+
+Lina la coniglietta è un libro accessibile pensato per accompagnare i bambini nella lettura attraverso una narrazione semplice, prevedibile e rassicurante.
+Frasi brevi, immagini chiare e parole chiave evidenziate favoriscono la comprensione, l’attenzione condivisa e la partecipazione attiva del bambino.
+
+La storia racconta un momento delicato di crescita: Lina ha un ciuccio, ma la mamma le dice che ormai è grande. Con calma, Lina mette il ciuccio in una scatola e va a dormire con il suo peluche. Al mattino trova un regalo e scopre di poter stare bene anche senza. La narrazione accompagna il bambino nel riconoscere emozioni, cambiamenti e nuove competenze, con un finale positivo e rassicurante.
+
+Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio ed elaborazione emotiva, trasformando la lettura in uno spazio di relazione e condivisione. Lina la coniglietta non è solo un libro da leggere, ma uno strumento per affrontare piccoli passaggi evolutivi attraverso parole semplici, immagini e dialogo, adatto a contesti educativi, terapeutici e familiari.
+
+---
+
+### Download
+
+<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>

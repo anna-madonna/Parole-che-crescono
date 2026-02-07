@@ -7,5 +7,17 @@ alt: image-alt
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
-description: DESCRIZIONE 
 ---
+## Fuffy il pipistrello
+
+Fuffy il pipistrello è un libro multisensoriale e accessibile pensato per accompagnare i bambini nella lettura attraverso il gioco, l’esperienza e la relazione.
+La storia, semplice e coinvolgente, prende vita grazie a materiali tattili, immagini chiare e una struttura narrativa ripetitiva che favorisce attenzione, partecipazione e comprensione.
+
+Il progetto nasce per sostenere comunicazione, linguaggio e interazione, trasformando la lettura in un’esperienza realmente inclusiva.
+Fuffy è un piccolo pipistrello curioso che, nella notte di Halloween, esplora l’ambiente intorno a sé e incontra nuovi amici, fino a condividere un momento di festa. Non è solo un libro da guardare, ma uno strumento da esplorare, toccare e condividere, adatto a contesti educativi, terapeutici e familiari.
+---
+
+### Download
+
+<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>

@@ -7,5 +7,18 @@ alt: image-alt
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
-description: DESCRIZIONE 
 ---
+## Tino
+
+Tino è un libro accessibile pensato per accompagnare i bambini nel momento delicato dell’addormentamento attraverso una routine serale chiara, prevedibile e rassicurante.
+Frasi brevi, immagini essenziali e una sequenza ripetitiva aiutano il bambino a comprendere e anticipare ciò che accade, favorendo calma, attenzione condivisa e partecipazione.
+
+La storia segue Tino durante la sera: è stanco, fa il bagnetto, mette il pigiamino, abbraccia il suo orsetto e ascolta la mamma che legge una storia. Con un bacio della buonanotte, Tino si addormenta sereno e felice. Ogni passaggio è presentato in modo semplice e positivo, trasformando la routine della nanna in un’esperienza tranquilla e condivisa.
+
+Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e regolazione emotiva, offrendo uno strumento utile per strutturare la routine serale. Tino non è solo un libro da leggere, ma un supporto per accompagnare il bambino verso il sonno attraverso parole, immagini e relazione, adatto a contesti educativi, terapeutici e familiari.
+---
+
+### Download
+
+<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>

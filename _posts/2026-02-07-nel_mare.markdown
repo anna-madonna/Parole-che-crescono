@@ -7,5 +7,19 @@ alt: image-alt
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
-description: DESCRIZIONE 
 ---
+
+## Nel mare
+
+Nel mare è un libro accessibile pensato per accompagnare i bambini nella lettura attraverso una struttura semplice, ripetitiva e altamente prevedibile.
+Immagini chiare, frasi brevi e parole chiave evidenziate rendono la storia facilmente comprensibile e favoriscono attenzione, partecipazione e anticipazione.
+
+La storia accompagna il bambino alla scoperta degli animali marini: il pesce che nuota veloce, il polipo con tante braccia, la tartaruga che si muove piano, il granchio che cammina di lato e il delfino che salta e gioca. Ogni personaggio è associato a un’azione, invitando il bambino a osservare, imitare e partecipare attivamente alla lettura.
+
+Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e interazione, trasformando la lettura in un’esperienza inclusiva e condivisa. Nel mare non è solo un libro da leggere, ma uno strumento per esplorare il linguaggio attraverso il corpo, il movimento e la relazione, adatto a contesti educativi, terapeutici e familiari.
+---
+
+### Download
+
+<a href="{{ '/assets/pdf/fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/foto/foto_fattoria.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
