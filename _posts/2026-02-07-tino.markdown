@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 5
-date: 2025
+date: 2026-02-07
 img: tino.png
 alt: image-alt
 project-date: Dicembre 2025

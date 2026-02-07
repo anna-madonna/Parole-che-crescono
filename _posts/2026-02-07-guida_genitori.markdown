@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2025
+date: 2026-02-07
 img: guida_genitori.png
 alt: image-alt
 project-date: Dicembre 2025
