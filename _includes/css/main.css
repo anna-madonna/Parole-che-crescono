@@ -5,19 +5,6 @@
  */
 
 
- #guide .portfolio-item {
-    position: relative;
-  }
-  
-  #guide .portfolio-item .caption {
-    opacity: 0;
-  }
-  
-  #guide .portfolio-item:hover .caption {
-    opacity: 1;
-  }
-  
-
 body {
     overflow-x: hidden;
 }
@@ -255,6 +242,58 @@ section.success {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
+
+
+
+
+
+
+
+
+
+#guide .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#guide .portfolio-item .portfolio-link .caption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba({{ site.color.primary-rgb }}, .9);
+    transition: all .5s ease;
+}
+
+#guide .portfolio-item .portfolio-link .caption:hover {
+    opacity: 1;
+}
+
+#guide .portfolio-item .portfolio-link .caption .caption-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 #portfolio * {
     z-index: 2;

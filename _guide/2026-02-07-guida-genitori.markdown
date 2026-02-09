@@ -5,9 +5,9 @@ img: guida_genitori.jpeg
 alt: "Guida per i genitori"
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
+layout: guide
 category: Libro
 ---
-
 ## Guida genitori
 
 la guida genitori è un opuscolo informativo pensato per accompagnare i genitori nella scoperta della lettura condivisa come strumento fondamentale per lo sviluppo del linguaggio.

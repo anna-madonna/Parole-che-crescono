@@ -6,6 +6,7 @@ alt: "Tesi"
 project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
+layout: guide
 ---
 
 ## Abstract
