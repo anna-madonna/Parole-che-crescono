@@ -30,8 +30,16 @@ color:
   secondary-dark: 233140 #A2122F
 
 # Footer settings
+#footer:
+#  copyright: Giuseppe Luciano
+#  location: Italy
+
+author:
+  name: Mario Rossi
+  email: mario@email.it
+
 footer:
-  copyright: Giuseppe Luciano
+  copyright: true
   location: Italy
 
 # Build settings
