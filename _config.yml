@@ -29,18 +29,25 @@ color:
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+
+collections:
+  guide:
+    output: true
+
 # Footer settings
 #footer:
 #  copyright: Giuseppe Luciano
 #  location: Italy
 
 author:
-  name: Mario Rossi
-  email: mario@email.it
+  name: Giuseppe Luciano
+  email: giuseppe.luciano03@gmail.com
 
 footer:
   copyright: true
-  location: Italy
+  location: Bologna, Italia
+  name: Giuseppe Luciano
+  email: giuseppe.luciano03@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -53,7 +60,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-collections:
-  guide:
-    output: true
