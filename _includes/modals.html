@@ -68,6 +68,7 @@
         <div class="rl"></div>
       </div>
     </div>
+
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
@@ -80,18 +81,18 @@
                  class="img-responsive img-centered"
                  alt="{{ guide.alt }}">
 
-             <a href="{{ guide.pdf | relative_url }}"
-                 target="_blank"
-                 class="btn btn-primary m-2">
-                 Scarica PDF
-                 </a>
-               {% endif %}
-              </div>
-
             <div class="post-content">
               {{ guide.content | markdownify }}
-              {% if guide.pdf %}
-               <!-- Dettagli del progetto -->
+            </div>
+
+            {% if guide.pdf %}
+              <a href="{{ guide.pdf | relative_url }}"
+                 target="_blank"
+                 class="btn btn-primary m-2">
+                Scarica PDF
+              </a>
+            {% endif %}
+
             <ul class="list-inline item-details">
               {% if guide.client %}
               <li>Client:
@@ -121,4 +122,3 @@
   </div>
 </div>
 {% endfor %}
-
