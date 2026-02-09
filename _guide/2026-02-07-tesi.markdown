@@ -46,5 +46,8 @@ per l’integrazione tra intervento educativo e screening precoce.
 ---
 
 ### Download
-
-<a href="{{ '/assets/pdf/tesi.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="/assets/pdf/tesi.pdf"
+   target="_blank"
+   class="btn btn-primary m-2">
+  Scarica PDF
+</a>
