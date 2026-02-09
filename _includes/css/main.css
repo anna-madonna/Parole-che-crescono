@@ -4,6 +4,20 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+ #guide .portfolio-item {
+    position: relative;
+  }
+  
+  #guide .portfolio-item .caption {
+    opacity: 0;
+  }
+  
+  #guide .portfolio-item:hover .caption {
+    opacity: 1;
+  }
+  
+
 body {
     overflow-x: hidden;
 }
@@ -258,7 +272,7 @@ section.success {
       display: flex;
       flex-flow: row wrap;
       align-items: stretch;
-      justify-content: space-between;
+      justify-content: center;
     }
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;

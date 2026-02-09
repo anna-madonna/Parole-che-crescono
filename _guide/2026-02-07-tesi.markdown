@@ -8,11 +8,42 @@ client: Anna Madonna e Carmen Beraldi
 category: Libro
 ---
 
-## Abstract tesi
+## Abstract
 
-aggiungere abstract della tesi e modifica anche il pulsante di download
+Il presente elaborato analizza l’efficacia di un laboratorio di lettura dialogica mediata dalla
+Comunicazione Aumentativa e Alternativa (CAA) come pratica educativa universale
+all’interno del nido d’infanzia. Il progetto, denominato “Parole che crescono”, è stato
+realizzato presso il nido di Vergato e ha coinvolto bambini di età compresa tra i 12 e i 36
+mesi, con l’obiettivo di sostenere lo sviluppo linguistico e comunicativo precoce e di
+promuovere ambienti educativi inclusivi e accessibili.
+La cornice teorica si fonda su un approccio socioculturale allo sviluppo del linguaggio, che
+riconosce il ruolo centrale della relazione, della mediazione adulta e della partecipazione a
+contesti narrativi condivisi. La CAA è stata utilizzata non come strumento compensativo,
+ma come facilitazione universale, attraverso l’impiego di storie simbolizzate, modeling
+sistematico dei simboli PCS®, materiali multisensoriali e routine di lettura prevedibili.
+Il progetto ha previsto un percorso laboratoriale di lettura dialogica condotto da
+logopediste, affiancate dalle educatrici del nido in un’ottica di formazione in situazione e
+continuità educativa. Per la valutazione delle competenze comunicative e linguistiche dei
+bambini sono stati somministrati ai genitori, in fase pre e post intervento, i questionari
+PVB – Gesti e Parole (forma lunga) e ASCB. L’analisi dei dati ha considerato le variabili età
+e sesso e ha permesso di confrontare in modo sistematico le competenze prima e dopo
+l’esperienza laboratoriale.
+I risultati mostrano un miglioramento generalizzato delle abilità linguistiche,
+comunicative e socio-interattive, con progressi particolarmente evidenti nei bambini che
+presentavano livelli iniziali più bassi. Le differenze di partenza tra maschi e femmine
+tendono a ridursi nel post intervento, confermando l’elevata plasticità delle competenze
+comunicative nella prima infanzia. I dati relativi all’assertività e alla responsività
+evidenziano inoltre un aumento significativo della partecipazione comunicativa e della
+qualità degli scambi interattivi.
+In conclusione, il laboratorio di lettura dialogica in CAA si conferma una pratica educativa
+efficace e inclusiva, capace di sostenere lo sviluppo linguistico precoce, favorire le
+competenze socio-relazionali e contribuire alla prevenzione e all’individuazione
+tempestiva di possibili fragilità evolutive. Il nido emerge come contesto privilegiato per la
+promozione del linguaggio e del benessere comunicativo, nonché come luogo strategico
+per l’integrazione tra intervento educativo e screening precoce.
+
 ---
 
 ### Download
 
-<a href="{{ '/assets/pdf/guida_per_i_genitori.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
+<a href="{{ '/assets/pdf/tesi.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
