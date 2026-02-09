@@ -80,6 +80,14 @@
                  class="img-responsive img-centered"
                  alt="{{ guide.alt }}">
 
+             <a href="{{ guide.pdf | relative_url }}"
+                 target="_blank"
+                 class="btn btn-primary m-2">
+                 Scarica PDF
+                 </a>
+               {% endif %}
+              </div>
+
             <div class="post-content">
               {{ guide.content | markdownify }}
               {% if guide.pdf %}
@@ -101,14 +109,6 @@
               </li>
               {% endif %}
             </ul>
-
-             <a href="{{ guide.pdf | relative_url }}"
-               target="_blank"
-               class="btn btn-primary m-2">
-               Scarica PDF
-               </a>
-             {% endif %}
-            </div>
 
             <button type="button" class="btn btn-default" data-dismiss="modal">
               <i class="fa fa-times"></i> Close
