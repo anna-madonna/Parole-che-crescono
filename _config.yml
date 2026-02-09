@@ -44,11 +44,12 @@ author:
   email: giuseppe.luciano03@gmail.com
 
 footer:
-  copyright: true
-  location: Bologna, Italia
-  name: Giuseppe Luciano
-  email: giuseppe.luciano03@gmail.com
-
+  copyright: "Giuseppe Luciano"
+  location: "Bologna, Italia"
+  credits_title: "Contatti"
+  name: "Giuseppe Luciano"
+  email: "giuseppe.luciano03@gmail.com"
+  
 # Build settings
 markdown: kramdown
 permalink: pretty

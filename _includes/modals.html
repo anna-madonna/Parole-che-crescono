@@ -81,7 +81,7 @@
                  alt="{{ guide.alt }}">
 
             <div class="post-content">
-              {{ guide.content }}
+              {{ guide.content | markdownify }}
             </div>
 
             <button type="button" class="btn btn-default" data-dismiss="modal">
