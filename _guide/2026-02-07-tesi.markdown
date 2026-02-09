@@ -7,6 +7,8 @@ project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 category: Libro
 layout: guide
+pdf: /assets/pdf/tesi.pdf
+
 ---
 
 ## Abstract
@@ -46,8 +48,8 @@ per l’integrazione tra intervento educativo e screening precoce.
 ---
 
 ### Download
-<a href="/assets/pdf/tesi.pdf"
-   target="_blank"
-   class="btn btn-primary m-2">
-  Scarica PDF
-</a>
+
+
+
+
+

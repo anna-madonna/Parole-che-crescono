@@ -83,6 +83,25 @@
             <div class="post-content">
               {{ guide.content | markdownify }}
               {% if guide.pdf %}
+               <!-- Dettagli del progetto -->
+            <ul class="list-inline item-details">
+              {% if guide.client %}
+              <li>Client:
+                <strong>{{ guide.client }}</strong>
+              </li>
+              {% endif %}
+              {% if guide.project-date %}
+              <li>Date:
+                <strong>{{ guide.project-date }}</strong>
+              </li>
+              {% endif %}
+              {% if guide.category %}
+              <li>Service:
+                <strong>{{ guide.category }}</strong>
+              </li>
+              {% endif %}
+            </ul>
+
              <a href="{{ guide.pdf | relative_url }}"
                target="_blank"
                class="btn btn-primary m-2">
