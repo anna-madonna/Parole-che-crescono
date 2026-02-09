@@ -7,6 +7,8 @@ project-date: Dicembre 2025
 client: Anna Madonna e Carmen Beraldi
 layout: guide
 category: Libro
+pdf: /assets/pdf/guida_per_i_genitori.pdf
+
 ---
 ## Guida genitori
 
@@ -21,8 +23,3 @@ Il progetto nasce con l’obiettivo di sostenere i genitori, offrendo strumenti 
 
 ### Download
 
-<a href="/assets/pdf/guida_per_i_genitori.pdf"
-   target="_blank"
-   class="btn btn-primary m-2">
-  Scarica PDF
-</a>
