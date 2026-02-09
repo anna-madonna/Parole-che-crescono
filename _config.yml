@@ -45,3 +45,7 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  guide:
+    output: true
