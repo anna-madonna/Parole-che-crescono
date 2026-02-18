@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Orsetto BO impara a contare
 modal-id: 9
 date: 2026-02-18
 img: Bo_contare.png

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Orsetto BO e le noci
 modal-id: 8
 date: 2026-02-18
 img: Bo_noci.png
