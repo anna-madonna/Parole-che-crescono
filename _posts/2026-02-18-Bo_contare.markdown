@@ -16,7 +16,6 @@ La storia segue Orsetto BO mentre esplora il mondo attraverso i numeri: uno è i
 
 Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e sviluppo cognitivo, utilizzando il numero come strumento per organizzare e comprendere la realtà. Orsetto BO impara a contare non è solo un libro per apprendere i numeri, ma uno strumento per favorire partecipazione, concettualizzazione e condivisione, adatto a contesti educativi, terapeutici e familiari.
 
-
 ---
 
 ### Download
