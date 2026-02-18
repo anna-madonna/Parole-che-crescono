@@ -1,0 +1,26 @@
+---
+layout: default
+modal-id: 5
+date: 2026-02-18
+img: Bo_noci.png
+alt: image-alt
+project-date: Dicembre 2025
+client: Giuseppina Castellano
+category: Libro
+---
+## Orsetto BO e le noci 
+
+Orsetto BO e le noci è un libro accessibile pensato per accompagnare i bambini nella lettura attraverso una storia semplice, concreta e altamente prevedibile.
+Frasi brevi, immagini chiare e una struttura narrativa sequenziale favoriscono la comprensione, l’attenzione condivisa e la partecipazione attiva.
+
+La storia segue Orsetto BO nella sua vita quotidiana nel bosco: mangia il miele, ascolta il papà e insieme raccolgono le noci. Orsetto BO porta poi le noci alla mamma, che lo accoglie con un abbraccio. La narrazione valorizza le routine, la collaborazione e la relazione affettiva, accompagnando il bambino a comprendere azioni, sequenze e significati attraverso l’esperienza.
+
+Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e comprensione narrativa, utilizzando situazioni familiari e concrete. Orsetto BO e le noci non è solo un libro da leggere, ma uno strumento per favorire partecipazione, comprensione delle sequenze e costruzione di significati condivisi, adatto a contesti educativi, terapeutici e familiari.
+
+
+
+---
+
+### Download
+
+<a href="{{ '/assets/pdf/Orsetto_Bo_noci.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
