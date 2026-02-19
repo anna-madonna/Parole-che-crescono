@@ -22,5 +22,4 @@ Il progetto nasce con l’obiettivo di sostenere comunicazione, linguaggio e svi
 ### Download
 
 <a href="{{ '/assets/pdf/Orsetto_Bo_contare.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica PDF</a>
-
 <a href="{{ '/assets/foto/Bo_contare.pdf' | relative_url }}" target="_blank" class="btn btn-primary m-2">Scarica Foto</a>
