@@ -9,8 +9,8 @@ layout: null
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  {% assign pages = site.pages | where_exp: "page", "page.url != '/sitemap.xml' and page.url != '/robots.txt' and page.url != '/feed.xml'" %}
-  {% for page in pages %}
+  {% for page in site.pages %}
+  {% unless page.url == "/sitemap.xml" or page.url == "/robots.txt" or page.url == "/feed.xml" %}
   {% if page.url and page.layout != nil %}
   <url>
     <loc>{{ page.url | replace:'index.html','' | prepend: site.url }}</loc>
@@ -19,6 +19,7 @@ layout: null
     <priority>0.7</priority>
   </url>
   {% endif %}
+  {% endunless %}
   {% endfor %}
   {% for post in site.posts %}
   <url>
