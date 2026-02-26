@@ -51,7 +51,7 @@ footer:
   credits_title: "Contatti"
   name: "Giuseppe Luciano"
   email: "giuseppe.luciano03@gmail.com"
-  website: "https://sigfrido11.github.io/personal_website/"
+  email:: "https://sigfrido11.github.io/personal_website/"
   github: "https://github.com/sigfrido11"
   
 # Build settings
